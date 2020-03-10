@@ -1,21 +1,25 @@
 Dungeons: ( ☒ Have  ☐ Need ) 
    
-    Floors (2x2) ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Walls (2x2) ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Corners (2x2) ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Stairs (straight) ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Doors ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+    Floors (2x2) ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+    Walls (2x2) ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ 
+    Narrow Passages ☒ ☒ ☒ ☒
+    Narrow Corners ☒ ☒
+    Corners (2x2) ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+    Stairs (straight) ☒ ☒ ☐ ☐ ☐ ☐ ☐
+    Doors ☒ ☒ ☐ ☐ ☐ ☐ ☐ ☐ ☐
     Double Doors ☐ 
-    Secret Doors ☐ ☐ ☐
+    Secret Doors ☒ ☒ ☐
+    Secret Door (Narrow Hall) ☒
     Bridge ☐ ☐
-    Fountain Pool ☐
-    Coffins ☐ ☐ ☐
+    Fountain Pool ☒
+    Coffins ☒ ☒ ☒
     Beds ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Crates  ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Barrells   ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
-    Table ☐ 
-    Chairs ☐ ☐ ☐ ☐
+    Crates  ☒ ☒ ☒ ☒ ☒ ☒ ☐ ☐
+    Barrells ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒ ☒
+    Table ☒ 
+    Chairs ☒ ☒ ☒ ☒
     Work Bench ☐ ☐
     Small Workbench ☐ ☐ ☐ ☐ ☐ ☐ ☐
+    Tile Ends ☒ ☒ ☒ ☒ ☒ ☒ ☒
 
     ☒ Checked  ☐ Unchecked
